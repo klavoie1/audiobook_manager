@@ -1,0 +1,3 @@
+mutagen~=1.47.0
+simpleaudio~=1.0.4
+pydub~=0.25.1
