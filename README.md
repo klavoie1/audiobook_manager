@@ -15,6 +15,7 @@ saved so you can pick up right where you left off.
 - `pydub` and `pyaudio`: For audio playback and streaming.
 - `sqlite3`: For storing the last known positions of audiobooks.
 - `mutagen`: For reading metadata from audio files (e.g., title, author).
+- `numpy`: For fixing audio issues created from volume changes.
 
 ## Installation
 1. Clone the repository:
