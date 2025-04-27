@@ -52,3 +52,4 @@ def get_title(file_path):
     except Exception as e:
         print(f"Error reading title from {file_path}: {e}")
         return os.path.basename(file_path)
+
