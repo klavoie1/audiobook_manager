@@ -30,7 +30,6 @@ pip install -r requirements.txt
 The `requirements.txt` file includes the necessary libraries (`pydub`, `pyaudio`, `mutagen`).
 
 3. Make sure you have `ffmpeg` installed for `pydub` to work properly with MP3 files.
-Make sure you have `ffmpeg` installed for `pydub` to work properly with MP3 files.
 - For Windows, download ffmpeg <a href="https://ffmpeg.org/download.html">here</a>.
 - For Linux/Mac, install it via package managers like apt, brew, etc.
 
